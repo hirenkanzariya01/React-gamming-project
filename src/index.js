@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+// If you need Bootstrap's JavaScript features (modals, tooltips, etc.) you may need to install popper.js
+// and import the bundle as well, though using React-Bootstrap components is a better approach.
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
