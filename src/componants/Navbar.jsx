@@ -1,14 +1,16 @@
 import React from 'react'
 import logo from '../images/logo.png'
-
-
+import profileImage from '../images/profile-header.jpg'
+import './Navbar.css'
+import { FaSearch } from "react-icons/fa";
 function Navbar() {
   return (
-    <div>
+    <div className='navbarContainer'>
       <div className="logo">
         <img src={logo} alt="" />
       </div>
       <div className="search">
+        <FaSearch className='searchIcon' />
         <input type="text" placeholder='Type somthing' name="" id="" />
       </div>
       <div className="navlink">
@@ -16,7 +18,7 @@ function Navbar() {
         <li>Browse</li>
         <li>Details</li>
         <li>Stream</li>
-        <li>Profile</li>
+        <li className='profile'><span>Profile</span><img src={profileImage} alt="" /></li>
       </div>
     </div>
   )

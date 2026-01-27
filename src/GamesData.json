@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-01.jpg",
+    "gameName": "Fortnite",
+    "title": "Sandbox",
+    "downloads": 3.2,
+    "ratings": "4.5",
+    "isPopular": true,
+    "date": "2023-01-15",
+    "playingTime":"634 H 22 Mins"
+  },
+  {
+    "id": 2,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-02.jpg",
+    "gameName": "PUBG",
+    "title": "Battle Royale",
+    "downloads": 5.1,
+    "ratings": "4.6",
+    "isPopular": true,
+    "date": "2022-11-20",
+    "playingTime":"482 H 10 Mins"
+  },
+  {
+    "id": 3,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-03.jpg",
+    "gameName": "Call of Duty",
+    "title": "Action",
+    "downloads": 4.8,
+    "ratings": "4.7",
+    "isPopular": true,
+    "date": "2023-03-05",
+    "playingTime":"725 H 45 Mins"
+  },
+  {
+    "id": 4,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-04.jpg",
+    "gameName": "Apex Legends",
+    "title": "Shooter",
+    "downloads": 2.9,
+    "ratings": "4.4",
+    "isPopular": true,
+    "date": "2022-12-12",
+    "playingTime":"389 H 30 Mins"
+  },
+  {
+    "id": 5,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-05.jpg",
+    "gameName": "Minecraft",
+    "title": "Creative",
+    "downloads": 10,
+    "ratings": "4.8",
+    "isPopular": true,
+    "date": "2023-02-18",
+    "playingTime":"1200 H 00 Mins"
+  },
+  {
+    "id": 6,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-06.jpg",
+    "gameName": "Free Fire",
+    "title": "Survival",
+    "downloads": 6.3,
+    "ratings": "4.3",
+    "isPopular": false,
+    "date": "2022-10-25",
+    "playingTime":"450 H 15 Mins"
+  },
+  {
+    "id": 7,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-07.jpg",
+    "gameName": "Valorant",
+    "title": "FPS",
+    "downloads": 3.7,
+    "ratings": "4.6",
+    "isPopular": true,
+    "date": "2023-04-01",
+    "playingTime":"520 H 50 Mins"
+  },
+  {
+    "id": 8,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-08.jpg",
+    "gameName": "GTA V",
+    "title": "Open World",
+    "downloads": 8.5,
+    "ratings": "4.9",
+    "isPopular": false,
+    "date": "2022-09-30",
+    "playingTime":"980 H 05 Mins"
+  },
+  {
+    "id": 9,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-01.jpg",
+    "gameName": "Among Us",
+    "title": "Multiplayer",
+    "downloads": 2.1,
+    "ratings": "4.2",
+    "isPopular": false,
+    "date": "2023-05-10",
+    "playingTime":"310 H 40 Mins"
+  },
+  {
+    "id": 10,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-02.jpg",
+    "gameName": "Clash Royale",
+    "title": "Strategy",
+    "downloads": 4.4,
+    "ratings": "4.5",
+    "isPopular": false,
+    "date": "2022-08-18",
+    "playingTime":"275 H 20 Mins"
+  },
+  {
+    "id": 11,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-03.jpg",
+    "gameName": "League of Legends",
+    "title": "MOBA",
+    "downloads": 7.9,
+    "ratings": "4.7",
+    "isPopular": true,
+    "date": "2023-03-22",
+    "playingTime":"860 H 55 Mins"
+  },
+  {
+    "id": 12,
+    "image": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/popular-04.jpg",
+    "gameName": "Cyberpunk 2077",
+    "title": "RPG",
+    "downloads": 1.8,
+    "ratings": "4.1",
+    "isPopular": true,
+    "date": "2022-11-08",
+    "playingTime":"400 H 00 Mins"
+  }
+]
