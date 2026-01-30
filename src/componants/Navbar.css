@@ -4,6 +4,16 @@
   align-items: center;
   padding: 20px 0;
 
+  .active-link-class {
+    color: palevioletred;
+    text-decoration: none;
+  }
+
+  .inactive-link-class {
+    color: #ccc;
+    text-decoration: none;
+  }
+
   & .logo {
     & img {
       width: 150px;

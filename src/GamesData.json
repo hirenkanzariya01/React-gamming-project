@@ -8,7 +8,8 @@
     "ratings": "4.5",
     "isPopular": true,
     "date": "2023-01-15",
-    "playingTime":"634 H 22 Mins"
+    "playingTime": "634 H 22 Mins",
+    "is_feature_game": false
   },
   {
     "id": 2,
@@ -19,7 +20,9 @@
     "ratings": "4.6",
     "isPopular": true,
     "date": "2022-11-20",
-    "playingTime":"482 H 10 Mins"
+    "playingTime": "482 H 10 Mins",
+    "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-01.jpg",
+    "is_feature_game": true
   },
   {
     "id": 3,
@@ -30,7 +33,9 @@
     "ratings": "4.7",
     "isPopular": true,
     "date": "2023-03-05",
-    "playingTime":"725 H 45 Mins"
+    "playingTime": "725 H 45 Mins",
+    "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-03.jpg",
+    "is_feature_game": true
   },
   {
     "id": 4,
@@ -41,7 +46,9 @@
     "ratings": "4.4",
     "isPopular": true,
     "date": "2022-12-12",
-    "playingTime":"389 H 30 Mins"
+    "playingTime": "389 H 30 Mins",
+    "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-03.jpg",
+    "is_feature_game": true
   },
   {
     "id": 5,
@@ -52,7 +59,8 @@
     "ratings": "4.8",
     "isPopular": true,
     "date": "2023-02-18",
-    "playingTime":"1200 H 00 Mins"
+    "playingTime": "1200 H 00 Mins",
+    "is_feature_game": false
   },
   {
     "id": 6,
@@ -63,7 +71,8 @@
     "ratings": "4.3",
     "isPopular": false,
     "date": "2022-10-25",
-    "playingTime":"450 H 15 Mins"
+    "playingTime": "450 H 15 Mins",
+    "is_feature_game": false
   },
   {
     "id": 7,
@@ -74,7 +83,8 @@
     "ratings": "4.6",
     "isPopular": true,
     "date": "2023-04-01",
-    "playingTime":"520 H 50 Mins"
+    "playingTime": "520 H 50 Mins",
+    "is_feature_game": false
   },
   {
     "id": 8,
@@ -85,7 +95,8 @@
     "ratings": "4.9",
     "isPopular": false,
     "date": "2022-09-30",
-    "playingTime":"980 H 05 Mins"
+    "playingTime": "980 H 05 Mins",
+    "is_feature_game": false
   },
   {
     "id": 9,
@@ -96,7 +107,8 @@
     "ratings": "4.2",
     "isPopular": false,
     "date": "2023-05-10",
-    "playingTime":"310 H 40 Mins"
+    "playingTime": "310 H 40 Mins",
+    "is_feature_game": false
   },
   {
     "id": 10,
@@ -107,7 +119,8 @@
     "ratings": "4.5",
     "isPopular": false,
     "date": "2022-08-18",
-    "playingTime":"275 H 20 Mins"
+    "playingTime": "275 H 20 Mins",
+    "is_feature_game": false
   },
   {
     "id": 11,
@@ -118,7 +131,8 @@
     "ratings": "4.7",
     "isPopular": true,
     "date": "2023-03-22",
-    "playingTime":"860 H 55 Mins"
+    "playingTime": "860 H 55 Mins",
+    "is_feature_game": false
   },
   {
     "id": 12,
@@ -129,6 +143,7 @@
     "ratings": "4.1",
     "isPopular": true,
     "date": "2022-11-08",
-    "playingTime":"400 H 00 Mins"
+    "playingTime": "400 H 00 Mins",
+    "is_feature_game": false
   }
 ]
